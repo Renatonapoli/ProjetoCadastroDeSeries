@@ -4,8 +4,6 @@
 <p align="center">Um simples projeto realizado com o C# e .Net, você realiza um cadastro dentro as 13 opções existentes. 
 Cadastra, atualiza, exclui, verifica a lista atualizada dentre outras opções. Simples porém com muito aprendizado.</p>
 
-<h2 align="center">
-	<p Divirta-se</p>
 
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 .Net e C#</a>
