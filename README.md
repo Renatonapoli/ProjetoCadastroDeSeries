@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Cadastro de Series</h1>
+<h1 align="center">Projeto Cadastro de Séries</h1>
 
 ## Descrição do Projeto
 <p align="center">Um simples projeto realizado com o C# e .Net, você realiza um cadastro dentro as 13 opções existentes. 
